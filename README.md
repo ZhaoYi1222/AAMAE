@@ -26,6 +26,8 @@ This dataset is meticulously curated through data pruning from an initial pool o
 The resulting STSSD comprises 510K image sets, each containing up to six images collected from two sources with different resolutions and spectral compositions. 
 STSSD consists of 4 kinds of image sets, featuring diverse sources, spatial resolutions, coverage, and acquisition times.
 
+![Image](img/dataset.png)
+
 
 ## Model Weights
 
