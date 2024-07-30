@@ -31,13 +31,4 @@ STSSD consists of 4 kinds of image sets, featuring diverse sources, spatial reso
 
 ## Model Weights
 
-
-| Model | #param. | Top-1 Acc. | Top-5 Acc. | Hugginface Repo |
-|:------------------------------------------------------------------:|:-------------:|:----------:|:----------:|:----------:|
-| -    |       -       |   -   | - | - |
-
-## Evaluation on Provided Weights
-
-## Acknowledgement :heart:
-
-## Citation
+The model weights will soon be released here.
